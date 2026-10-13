@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
+  <app appid=' ibkgeflagakmiganlloaoemicmcjacmc'>
+    <updatecheck codebase='https://condonb-pps.github.io/AI-Overview-Blocker/AI-Overview-Block.crx' version='1.0' />
+  </app>
+</gupdate>
